@@ -1,0 +1,6 @@
+README.md
+setup.py
+lambdata_akhildraju.egg-info/PKG-INFO
+lambdata_akhildraju.egg-info/SOURCES.txt
+lambdata_akhildraju.egg-info/dependency_links.txt
+lambdata_akhildraju.egg-info/top_level.txt
