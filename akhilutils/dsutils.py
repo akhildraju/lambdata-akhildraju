@@ -3,6 +3,8 @@ from sklearn.model_selection import train_test_split
 
 
 class DatasetUtil:
+  """ This class provides untilities for splitting your dataset 
+      into train, test and validate sets """
 
   dataframe = None
 
